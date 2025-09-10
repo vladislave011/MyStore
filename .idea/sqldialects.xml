@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/api/add_to_cart.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/buy.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/db.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/functions.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/google-auth.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/index.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/login.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/login_process.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/register.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/register_process.php" dialect="GenericSQL" />
+  </component>
+</project>
